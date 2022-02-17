@@ -13,7 +13,7 @@ import "math"
 type sides_n int
 
 const(
-	SidesCircle := iota
+	SidesCircle = iota
 	_
 	_
 	SidesTriangle
